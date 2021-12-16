@@ -28,6 +28,7 @@
 		C521785B27687BFB00E1BA62 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C521785E27687BFB00E1BA62 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C521786027687BFB00E1BA62 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C52178CB276BDC2F00E1BA62 /* Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +75,7 @@
 				C521785227687BF800E1BA62 /* AppDelegate.swift */,
 				C521785427687BF800E1BA62 /* SceneDelegate.swift */,
 				C521785627687BF800E1BA62 /* ViewController.swift */,
+				C52178CB276BDC2F00E1BA62 /* Header.h */,
 				C521785827687BF800E1BA62 /* Main.storyboard */,
 				C521785B27687BFB00E1BA62 /* Assets.xcassets */,
 				C521785D27687BFB00E1BA62 /* LaunchScreen.storyboard */,

@@ -9,6 +9,14 @@
 			<string>Editor</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
+				<string>my.macPc.googleLoginTest</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
 				<string>com.googleusercontent.apps.257551777234-fm5l767d3t8a41k84km2bkc9op0t9816</string>
 			</array>
 		</dict>
